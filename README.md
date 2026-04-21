@@ -22,19 +22,6 @@ This project is a simple **Flask-based web application** that connects to a **Su
 
 ---
 
-## 📂 Project Structure
-
-```
-MySQL-Practice-102/
-│
-├── app.py              # Main Flask application
-├── .env               # Environment variables (not included in repo)
-├── requirements.txt   # Dependencies
-└── README.md          # Project documentation
-```
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
